@@ -1,4 +1,4 @@
-﻿# Basic data structures in C#
+# Basic data structures in C Sharp
 
 [Dictionary of data structures](http://www.nist.gov/dads/)
 
